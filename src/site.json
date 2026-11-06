@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "csv-deduplicate",
+  "section": "표 중복 행 정리",
+  "hero": "표 중복 행 정리",
+  "description": "선택 열의 정확한 문자열 조합으로 비교합니다. 빈 키도 같은 값으로 처리됩니다. 다운로드에는 보존된 행만 들어 있습니다.",
+  "pageTitle": "표 중복 행 정리 | GuideHollow",
+  "url": "https://csv-deduplicate.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}

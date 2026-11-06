@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://csv-deduplicate.guidehollow.com/sitemap-index.xml
